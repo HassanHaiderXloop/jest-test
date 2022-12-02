@@ -1,4 +1,4 @@
-# bOOKapi JS
+# BooKApi JS
 
 This is the first project Test Driven Development
 
